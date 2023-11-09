@@ -1,4 +1,4 @@
-// C program to demonstrate getdate() method and use it to calculate age
+// C program that gets the system date and prints it for further use
 #include <time.h>
 #include <stdio.h>
 
